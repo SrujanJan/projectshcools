@@ -16,6 +16,10 @@
     width: 1000px;
     height: 136px;
 }
+.x{
+    overflow: auto;
+
+}
 .h{
     background-color: #61764B;
 }
